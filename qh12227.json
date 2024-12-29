@@ -1,0 +1,11 @@
+{
+  "name":"qh12227自用", "description":"补充一些网上找不到但是自己需要的icon图标，整理者：qh12227", 
+  "icons":[    
+    {"name":"yqc-Premium", "url":"https:\/\/raw.githubusercontent.com\/qh12227\/icon2\/blob\/main\/icon\/yqc-Premium.png"},
+    {"name":"wps", "url":"https:\/\/raw.githubusercontent.com\/qh12227\/icon2\/blob\/main\/icon\/wps.png"},
+    {"name":"goodnotes", "url":"https:\/\/raw.githubusercontent.com\/qh12227\/icon2\/blob\/main\/icon\/goodnotes.png"},
+    {"name":"WeiGeGe", "url":"https:\/\/raw.githubusercontent.com\/qh12227\/icon2\/blob\/main\/icon\/WeiGeGe.png"},
+    {"name":"", "url":"https:\/\/"},
+    {"name":"", "url":"https:\/\/"}
+    ]
+}
