@@ -4,5 +4,5 @@
 
 ## 📦 **JSON地址**
 ```
-(https://raw.githubusercontent.com/qh12227/icon2/refs/heads/main/qh12227.json)
+https://raw.githubusercontent.com/qh12227/icon2/main/qh12227.json
 ```
